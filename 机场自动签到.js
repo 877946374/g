@@ -8,9 +8,10 @@
  * @rule 机场签到 
  * @disable false
  * @public true
- * @cron 1 0,6 * * *
+ * @cron
  * 
  */
+//自行修改定时时间cron  1 0,6 * * *
 cookie = ''
 /** */
  /*hidden*/ 
